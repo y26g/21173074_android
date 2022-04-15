@@ -15,3 +15,8 @@
 <img width="" height="" src="./pic/5주차_ma.PNG"></img>
 <img width="" height="" src="./pic/5주차_결과1.PNG"></img>
 <img width="" height="" src="./pic/5주차_결과2.PNG"></img>
+
+# 6주차 (2022-04-12)
+
+<img width="" height="" src="./pic/6주차_width.PNG"></img>
+<img width="" height="" src="./pic/6주차_height.PNG"></img>
