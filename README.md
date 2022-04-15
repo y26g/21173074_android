@@ -18,5 +18,7 @@
 
 # 6주차 (2022-04-12)
 
-<img width="" height="" src="./pic/6주차_width.PNG"></img>
-<img width="" height="" src="./pic/6주차_height.PNG"></img>
+<img width="" height="" src="./pic/6주차_width1.PNG"></img>
+<img width="" height="" src="./pic/6주차_height1.PNG"></img>
+<img width="" height="" src="./pic/6주차_width2.PNG"></img>
+<img width="" height="" src="./pic/6주차_height2.PNG"></img>
