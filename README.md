@@ -25,5 +25,5 @@
 
 # 10주차 (2022-05-10)
 
-<img width="" height="" src="./pic/10주차_main.PNG"></img>
-<img width="" height="" src="./pic/10주차_menu.PNG"></img>
+<img width="" height="" src="./pic/10st_main.PNG"></img>
+<img width="" height="" src="./pic/10st_menu.PNG"></img>
