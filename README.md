@@ -28,5 +28,5 @@
 <img width="" height="" src="./pic/10st_main.PNG"></img>
 <img width="" height="" src="./pic/10st_menu.PNG"></img>
 
-# 11주차 (20220-05-17)
+# 11주차 (2022-05-17)
 <img width="" height="" src="./pic/11st.PNG"></img>
